@@ -1,0 +1,32 @@
+[
+    {
+		"image":"./assets/img/CIVIC.jpg",
+        "modelName": "Civic R",
+        "mssrp": "$41,000",
+        "horsePower": "306"
+    },
+    {
+		"image":"./assets/img/WRX.jpg",
+        "modelName": "WRX Sti",
+        "mssrp": "$27,500",
+        "horsePower": "268"
+    },
+    {
+		"image":"./assets/img/350GT.jpg",
+        "modelName": "350GT",
+        "mssrp": "$13,000",
+        "horsePower": "276"
+    },
+	{
+		"image":"./assets/img/FALCON.jpg",
+		"modelName":"Falcon BA",
+		"mssrp":"$8,000",
+		"horsePower":"246"
+	},
+	{
+		"image":"./assets/img/MPS.jpg",
+		"modelName":"MPS Mazda",
+		"mssrp":"$14,000",
+		"horsePower":"256"
+	}
+]

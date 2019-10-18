@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <!-- Font Awesome Icon Library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="./assets/js/sedan.js"></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="bannerimage">
+        <div class="mainheader">
+            <h2 class="title">DailyCars</h2>
+        </div>
+    </div>
+    <nav>
+        <a class="navigationtabs" href="home.html">Home</a>
+        <div class="dropdown">
+            <button class="dropbutton">Cars</button>
+            <div class="dropdown-content">
+                <a href="coupe.html">Coupe</a>
+                <a href="sedan.html">Sedan</a>
+            </div>
+        </div>
+        <a class="navigationtabs" href="contact.html">Contact</a>
+    </nav>
+    <section class="sectionbox">
+        <div class="sectionheadings">Our Recommended Second Hand Bargains:</div>
+        <h5 class="sectionheadings"></h5>
+        <table id="review-table"></table><!-- JS for Json tables here -->
+            <form><textarea name="comment" id="comment-input" cols="20" rows="5"></textarea>
+                <textarea name="commentname" id="name-input" cols="10" rows="1">Name:</textarea>
+                <input id="comment-data" type="button" value="Post" />
+                <ul id="commentdivs"></ul></form>
+        
+    </section>
+
+</body>
+
+</html>

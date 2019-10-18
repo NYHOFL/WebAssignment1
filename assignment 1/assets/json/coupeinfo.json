@@ -1,0 +1,32 @@
+[
+    {
+		"image":"./assets/img/BRZ.jpg",
+        "modelName": "BRZ",
+        "mssrp": "$21,000",
+        "horsePower": "205"
+    },
+    {
+		"image":"./assets/img/MR2.jpg",
+        "modelName": "MR2Spyder",
+        "mssrp": "$7,500",
+        "horsePower": "138"
+    },
+    {
+		"image":"./assets/img/CORVETTE.jpg",
+        "modelName": "Corvette",
+        "mssrp": "$33,000",
+        "horsePower": "345"
+    },
+	{
+		"image":"./assets/img/GTO.jpg",
+		"modelName":"GTO",
+		"mssrp":"$12,000",
+		"horsePower":"300"
+	},
+	{
+		"image":"./assets/img/MX5.jpg",
+		"modelName":"MX-5",
+		"mssrp":"$6,000",
+		"horsePower":"113"
+	}
+]
